@@ -1,4 +1,4 @@
 Git is  distributed version conctrol system.
 Git is free software distributed under the GPL.
 Git has mutable index called stage.
-Git tracks change.
+Git tracks change of file.
